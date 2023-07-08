@@ -19,10 +19,14 @@ body {
 }
 
 /* nav related */
+.header{
+    background: #FFF8F3;
+}
 nav {
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0px 200px;
 
      
 }
@@ -49,6 +53,15 @@ nav li {
 
 nav a {
     text-decoration: none;
-    color: #000;
-    #474747
+    color: #474747;
+}
+    
+.banner{
+    padding: 30px 30px 30px 150px;
+    display: flex ;
+    align-items: center;
+    
+}
+.banner .profilePicture{
+    width: 500px;
 }
