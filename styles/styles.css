@@ -1,0 +1,10 @@
+/* font style */
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'lato', sans-serif;
+}
+
+/* nav related */
+nav{
+    display: flex;
+}
